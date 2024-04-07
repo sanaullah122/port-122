@@ -3,7 +3,21 @@ body{
     
 }
 nav{
-    
-    background:green;
-    
+    color: rgb(12, 28, 128);
+    background:whitesmoke;
+
+}
+.Myprojects{
+    color: green;
+}
+#head{
+    color: white;
+    background-color: darkslateblue;
+}
+.body{
+    color: black;
+    background-color: greenyellow;
+}
+#form{
+    background-color:teal
 }
